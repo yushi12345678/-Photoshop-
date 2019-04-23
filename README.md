@@ -13,6 +13,7 @@
 <img src="模拟手机页面/4.jpg" width="280" height="450">  <img src="模拟手机页面/5.jpg" width="280" height="450">  <img src="模拟手机页面/6.jpg" width="280" height="450">
 <img src="模拟手机页面/7.jpg" width="280" height="450">  <img src="模拟手机页面/8.jpg" width="280" height="450">  <img src="模拟手机页面/9.jpg" width="280" height="450">
 <img src="模拟手机页面/10.jpg" width="280" height="450">
+
 二、设计吉林省第十二届大学生程序设计竞赛参赛牌
 ========================================
 效果图
