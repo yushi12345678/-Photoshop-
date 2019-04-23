@@ -10,7 +10,7 @@
 
 2.效果图
 --------
-<img src="模拟手机页面/1.jpg" width="300" height="400"><img src="模拟手机页面/1.jpg" width="300" height="400"><img src="模拟手机页面/1.jpg" width="300" height="400">
+<img src="模拟手机页面/1.jpg" width="280" height="400"><img src="模拟手机页面/1.jpg" width="280" height="400"><img src="模拟手机页面/1.jpg" width="280" height="400">
 ![Homepage](模拟手机页面/1.jpg)
 ![Homepage](模拟手机页面/2.jpg)
 ![Homepage](模拟手机页面/3.jpg)
